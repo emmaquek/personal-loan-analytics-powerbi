@@ -20,8 +20,9 @@ This project addresses the question:
 ---
 
 ## Dataset
-- Publicly available consumer banking dataset (Kaggle)
-- Customer-level information including:
+Publicly available consumer banking dataset [(🔗 Link to Kaggle Dataset)](https://www.kaggle.com/datasets/ahmadrafiee/bank-personal-loan)
+
+Customer-level information including:
   - annual income
   - credit card spending
   - education level
